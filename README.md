@@ -1,6 +1,7 @@
 # Bomberman Game
 
 Um jogo multiplayer local inspirado no clássico **Bomberman**, feito com **Python** e **Pygame**.
+Grupo: Eros Karsburg, Nicole Machemer, Victor Woycickoski e Vitória Pilger.
 
 ## 🎮 Como Jogar
 
