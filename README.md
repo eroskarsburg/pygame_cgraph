@@ -19,11 +19,9 @@ Dois jogadores competem colocando bombas e evitando explosões. Cada jogador com
 - **Colocar bomba**: `ESPAÇO`
 
 ### Regras
-- Máximo de 5 bombas simultâneas por partida.
 - Bombas explodem após 5 segundos, criando uma cruz de fogo.
 - Explosões causam **1 dano** ao jogador atingido.
 - Quando um jogador perde todas as vidas, o outro vence.
-- Tela de **Game Over** permite reiniciar ou sair.
 
 ## 🧱 Mapa
 
