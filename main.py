@@ -257,8 +257,6 @@ max_bombas_p2 = 1
 
 clock = pygame.time.Clock()
 
-# ADICIONE ESTAS FUNÇÕES DEPOIS DA LINHA 'clock = pygame.time.Clock()'
-
 def draw_button(surface, rect, text, font, bg_color, text_color, border_color=None):
     """Desenha um botão com texto"""
     pygame.draw.rect(surface, bg_color, rect)
@@ -654,7 +652,6 @@ def selecao_personagens():
         pygame.display.flip()
         clock.tick(60)
 
-# SUBSTITUA AS LINHAS DE CARREGAMENTO DAS IMAGENS DOS JOGADORES POR ESTA FUNÇÃO:
 def carregar_imagens_jogadores(caminho1, caminho2):
     """Carrega as imagens dos jogadores baseado nos caminhos locais selecionados"""
     # Jogador 1
