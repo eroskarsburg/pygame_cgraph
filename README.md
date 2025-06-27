@@ -45,3 +45,7 @@ As vidas de cada jogador são representadas na HUD superior com corações.
 2. Instale o pygame: 
     ```bash 
     pip install pygame
+3. Rode o arquivo 'main.py' no terminal:
+   ```terminal
+   python main.py
+4. Divirta-se!
